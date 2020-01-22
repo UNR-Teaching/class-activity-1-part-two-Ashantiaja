@@ -1,3 +1,7 @@
+### Names:
+Ashanti Cudiamat<br/>
+Sayra Ramirez
+
 # Class Activity 1 part two
 
 Your first paired programming problem!
